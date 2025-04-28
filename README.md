@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid Kawouk</h1>
 <h3 align="center">A full stack developer from Syria</h3>
 
-- 🔭 I’m currently working on **flash card website**
+- 🔭 I’m currently working on **job tracker website**
 
 - 🌱 I’m currently learning **express**
 
