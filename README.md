@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **backend**
 
 - 📫 How to reach me **majidkawouk@gmail.com**
 
