@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **docker and redis**
 
 - 📫 How to reach me **majidkawouk@gmail.com**
 
