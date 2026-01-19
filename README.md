@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from Syria</h3>
 
 - 🌱 I’m currently learning **Docker and Redis**
-- 📫 How to reach me **majidkawouk@gmail.com**
+- 📞 How to reach me **majidkawouk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
